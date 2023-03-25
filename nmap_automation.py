@@ -1,4 +1,4 @@
-import OS
+import os
 welcome = "Nmap scanner"
 x = welcome.center(155, "-")
 print(x)
