@@ -1,6 +1,6 @@
 <h1>Automating Nmap Scanning with Python</h1>
 
-[YouTube Demonstration](https://youtu.be/aUhnVI5CLY0)
+<!-- [YouTube Demonstration](https://youtu.be/aUhnVI5CLY0) -->
 
 <h2>Description</h2>
 The goal of this script is to make life easier for anyone performing regular nmap scans by automating the process. This script can be added to the .bashrc_aliases file, so that all the user needs to do is type 'nmap', and the scan will be executed, with the output automatically saved to a file.
